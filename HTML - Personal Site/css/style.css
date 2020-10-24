@@ -1,0 +1,33 @@
+/****************************************TAG SELECTOR******************************/
+body {background-color: #e8f9e9;}
+
+hr {
+  border-style: dotted none none;
+  width: 5%;
+  border-top-color: #024249;
+  border-width: 5px;
+  margin-top: 2em;
+  margin-bottom: 3em;
+}
+
+h1 {font-family: serif;}
+th {
+  background-color: #235952;
+  color: white;
+}
+/*table, th, td {
+  border: 1px solid #235952;
+  border-color: #235952;
+  border-collapse: collapse;
+}*/
+p
+{
+  color: #21243d;
+}
+
+/****************************************CLASS SELECTOR******************************/
+.Heading_Color{
+  color: #235952;
+}
+.Row_Color:hover {background-color: #f5f5f5;}
+/****************************************IDs SELECTOR******************************/

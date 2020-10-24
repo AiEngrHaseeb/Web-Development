@@ -1,0 +1,159 @@
+/****************************************TAG SELECTOR******************************/
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Red Rose', cursive;
+
+}
+h1{
+  color: #66BFBF;
+  font-family: 'Clicker Script', cursive;
+  font-size: 4.625rem;
+  font-weight: normal;
+}
+h2
+{
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 250%;
+  font-weight: lighter;
+  padding: 10px;
+}
+h3{
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin-bottom: 0;
+}
+p{
+  margin-top: 4px;
+  line-height: 1.5;
+  color: #464646;
+}
+hr{
+  border: dotted gray 7px;
+  width: 6px;
+  width: 4%;
+  border-bottom: 0;
+  margin: 100px auto;
+}
+a{
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 22px;
+  text-decoration: none;
+}
+a:hover{
+  color: #EAF6F6;
+}
+/****************************************CLASS SELECTOR******************************/
+.Top_Container {
+  background-color: #11999e;
+  padding: 1px;
+
+}
+.light_first{height: 100px;
+width: 75px;
+position: absolute;
+left: 250px;
+}
+.light_second{height: 100px;
+width: 75px;
+position: absolute;
+right: 250px;
+}
+.name{
+  color: #EAF6F6;
+  margin: 100px auto 0;
+  width: 30%;
+}
+.programmer-boy{
+  width: 50%;
+  margin-top: 10px;
+}
+
+.dp{ width: 10%;
+border-radius: 50%;
+background-color: #11999E;
+}
+
+.tag-line{
+  color: #EAF6F6;
+  font-size: 1.2rem;
+}
+
+.intro{
+  width: 40%;
+  margin: auto;
+}
+.skill-row{
+  width: 50%;
+  text-align: center;
+  margin: 100px auto 150px auto;
+}
+.hello{
+  font-size: 150%;
+  font-weight: bold;
+}
+.web-img{
+  width: 25%;
+  float: left;
+  margin-right: 10px;
+}
+.AI-img{
+  width: 19.5%;
+  float: right;
+  position: relative;
+  bottom: 18px;
+  right: 5px;
+
+}
+.security-img{
+  width: 25%;
+  float: left;
+  margin-right: 15px;
+}
+.contact-message{
+  width: 40%;
+  margin: 50px auto 60px;
+}
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 18px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+.Middle_Container {
+
+}
+
+.Bottom_Container {
+margin-top: 70px;
+padding-top: 20px;
+background-color: #66BFBF;}
+
+.copyright{
+  margin: 8px auto 0;
+  color: #EAF6F6;
+  font-size: 0.72rem;
+}
+/****************************************IDs SELECTOR******************************/
